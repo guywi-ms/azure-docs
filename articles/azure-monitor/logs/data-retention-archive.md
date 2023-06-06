@@ -50,7 +50,7 @@ To set the default workspace retention policy:
 
 By default, all tables in your workspace inherit the workspace's interactive retention setting and have no archive policy. You can modify the retention and archive policies of individual tables, except for workspaces in the legacy Free Trial pricing tier.
 
-You can keep data in interactive retention between 4 and 730 days. You can set the archive period for a total retention time of up to 2,556 days (seven years).
+You can keep data in interactive retention between 30 and 730 days. You can set the archive period for a total retention time of up to 2,556 days (seven years).
 
 # [Portal](#tab/portal-1)
 
